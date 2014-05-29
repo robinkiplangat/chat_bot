@@ -1,2 +1,2 @@
-chat_bot
+chat_mate
 ========
